@@ -10,7 +10,7 @@ form label {
 }
 form input{
   display: block;
-  background:darkred;
+  background:red;
   color:black;
   font-weight:bold;
 } 
