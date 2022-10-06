@@ -3,9 +3,14 @@ background:darkred;
 }
 
 form label {
-display: block;
-font-size: 20px;
+     display: block;
+     font-size: 20px;
+     color:black
+       
 }
 form input{
-display: block;
+  display: block;
+  background:darkred;
+  color:black;
+  font-weight:bold;
 } 
