@@ -7,13 +7,16 @@
 	<title></title>
 </head>
 <body>
-   <H1>FORMULARIO DE CAADASTRO</H1>
+   <H1>FORMULARIO DE CADASTRO</H1>
    <main>
 <form>
 <label for="NOME">NOME</label>
-<input type="text" id="endereço">
-<br>
-<label for="data_nasc">DATA DE NASCIMENTO
+<input type="text" id="nome" rrequired>
+	
+<label for ="end_email" id="end-email" required>
+	
+	
+<label for="
 </form>
 </body>
 </html>
